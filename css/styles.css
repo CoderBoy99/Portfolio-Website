@@ -1,0 +1,232 @@
+h1{
+  font-size: 65px;
+}
+.nav-item{
+  margin-left: 5%;
+  padding-left: 10%;
+  padding-right:10%;
+}
+.sub_head{
+  text-align: center;
+  font-size: 25px;
+    border-top: solid;
+    border-width: 1px;
+    max-width: 50%;
+    padding-left: 10px;
+margin-left: 310px;
+margin-top: 20px;
+padding-top: 10px;
+font-family: 'Merienda One', cursive;
+}
+.fas,.fab{
+  color:#212529;
+}
+.fas:hover,.fab:hover{
+  color:black;
+}
+.pic{
+  height: 330px;
+  width:300px;
+  border-radius: 50%;
+  opacity: 0.75;
+}
+.alignment{
+  text-align: center;
+  margin-bottom: -70px;
+}
+.profile{
+  text-align: center;
+margin-top: 10%;
+margin-bottom: 20%;
+}
+h3{
+  color:#22a39f;
+}
+h2{
+  font-size: 350%;
+    color:#22a39f;
+}
+.about{
+    margin-top: 50% ;
+    text-align: left;
+  margin-right: 15%;
+  margin-left: 10%;
+  line-height: 1.7rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.details{
+    margin-top: 50%;
+    text-align: left;
+  margin-left: 15%;
+  line-height: 1.7rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.up{
+  margin-bottom: 20%;
+  font-family: 'Merienda One', cursive;
+}
+
+.header{
+font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+}
+.head{
+  color: #000000;
+ font-family: 'Parisienne', cursive;
+  padding:400px 100px;
+  text-align: center;
+  background-image: url("../images/4.jpeg");
+  background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.75;
+}
+.Edu-heading{
+  text-align: center;
+}
+.education{
+  background-color: #e3fdfd;
+  line-height: 1.7rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.complicated-box{
+  line-height: 1.7rem;
+font-family: 'Merienda One', cursive;
+}
+.media{
+  padding-left: 580px;
+
+}
+.ico{
+  padding-bottom: 50px;
+  padding-right:50px;
+  height:150px;
+  width:150px;
+}
+.skills{
+  background-color: #f8f3d4;
+}
+.background_pic{
+  padding:400px 100px;
+  text-align: center;
+  background-image: url("../images/dell.jpg");
+  background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 0.85;
+      margin-bottom: 0;
+}
+.skills{
+  margin-bottom: 50px;
+}
+.prizes{
+  padding-left: 280px;
+  padding-top: 30px;
+  margin-bottom: 40px;
+}
+.responsbility{
+  background-color: #e3fdfd;
+  max-width: 1140px;
+  margin-left:190px;
+  line-height: 3.7rem;
+  font-family: 'Merienda One', cursive;
+}
+.list{
+  padding-right:250px;
+  text-align: left;
+  font-size: 20px;
+}
+.hobbies{
+  text-align: center;
+  margin-top:100px;
+}
+.how-section1{
+   margin-top:-15%;
+    padding: 10%;
+    font-family: 'Merienda One', cursive;
+}
+.how-section1 h4{
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    font-size: 20px;
+    text-align: left;
+}
+.subheading{
+  line-height: 2rem;
+}
+.how-img
+{
+    text-align: center;
+}
+.how-img {
+    width: 50%;
+}
+.round{
+  margin-left: 100px;
+  border-radius: 50%;
+  width:250px;
+  height:220px;
+}
+
+.hobbies{
+  padding-top:15px;
+  background-color: #fefdca;
+}
+
+.u-row{
+  margin-top:12%;
+}
+.u-line{
+  margin-top:5%;
+  padding-right: 250px;
+  padding-bottom: 150px;
+}
+.m-line{
+padding-top:65px;
+padding-left:80px;
+}
+.round1{
+  margin-right:195px;
+  border-radius: 50%;
+  width:250px;
+  height:240px;
+}
+.round2{
+  margin-top: 60px;
+  margin-left:80px;
+  border-radius: 50%;
+  width:290px;
+  height:280px;
+}
+.l-line{
+  padding-top:130px;
+  padding-right:150px;
+}
+.contact {
+  background-color: #434242;
+  height:410px;
+}
+.contact h2{
+  padding-top:50px;
+  text-align: center;
+  color:black;
+}
+.link_list{
+  padding-top:140px;
+  text-align: center;
+}
+.copyright{
+  padding-top:20px;
+  color:black;
+}
+.link{
+  margin-left:1.5%;
+  color:black;
+}
+.link:hover{
+  color:#1b262c;
+}
